@@ -1,4 +1,4 @@
-https://github.com/farhan5178/farhan5178/blob/main/Farhan%20Sadik%20Turjo%20Github(1280%20x%20640%20px).png
+https://github.com/yourusername/yourusername/blob/main/banner.png?raw=true
 # 💫 About Me:
 🔭 I’m currently working on<br>→ MERN stack projects (MongoDB, Express, React, Node.js), including full-stack web applications<br><br>👯 I’m looking to collaborate on<br>→ MERN-based real-world projects, open-source web apps, and startup ideas<br><br>🤝 I’m looking for help with<br>→ Advanced backend development, authentication systems (JWT, OAuth), and scalable API design<br><br>🌱 I’m currently learning<br>→ Advanced React, Node.js performance optimization, and system design for backend<br><br>💬 Ask me about<br>→ MERN stack development, REST APIs, React frontend, and basic to intermediate full-stack projects<br><br>⚡ Fun fact<br>→ I enjoy building full-stack apps from scratch and watching ideas turn into real products 🚀
 
